@@ -1,7 +1,9 @@
 # React Typescript Template
 
-Esta es una plantilla para comenzar un proyecto de React con Typescript.
-Ideal para quienes quieren comenzar un proyecto con configuraciones básicas con eslint, prettier y la suit de tests de vitest.
+Esta es una plantilla base para iniciar un proyecto con React y TypeScript.
+
+Está pensada para desarrolladores que desean comenzar con una configuración mínima pero profesional, incluyendo ESLint, Prettier y una suite de tests preconfigurada con Vitest y Testing Library.
+
 
 ---
 
