@@ -15,6 +15,7 @@ Ideal para quienes quieren comenzar un proyecto con configuraciones básicas con
 - 🧱 Estructura de carpetas profesional y modular
 - 🧹 Reset global de estilos (`global.css`)
 - ⚙️ Listo para testeo y ampliación futura (GraphQL, Zustand, etc.)
+- 🧠 Devlog para ir tomando apuntes a medida que desarrollas
 
 ---
 
