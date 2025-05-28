@@ -42,3 +42,13 @@ src/
 ├── tests
 │   └── setupTests.ts
 ```
+## Forma de uso
+
+Introduce los siguientes comandos con el nombre de tu proyecto, entrea en él e instala las dependencias:
+
+```
+npx degit ivanmartinez777/react-typescript-template my-new-project
+cd my-new-project
+npm install
+npm run dev
+```
